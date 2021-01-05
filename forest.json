@@ -1373,14 +1373,14 @@
     "useful_life_expectency_value": "20",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.81275918119225",
-      "longitude": "144.95330775030797",
+      "latitude": "-37.81275275195591",
+      "longitude": "144.95333189582908",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.81275918119225",
-    "longitude": "144.95330775030797",
-    "easting": "319840.36",
-    "northing": "5812986.16"
+    "latitude": "-37.81275275195591",
+    "longitude": "144.95333189582908",
+    "easting": "319842.47",
+    "northing": "5812986.92"
   },
   {
     "com_id": "1013508",
@@ -1465,14 +1465,14 @@
     "useful_life_expectency_value": "30",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.81246619846056",
-      "longitude": "144.95353007569307",
+      "latitude": "-37.812473702473916",
+      "longitude": "144.9535625829268",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.81246619846056",
-    "longitude": "144.95353007569307",
-    "easting": "319859.22",
-    "northing": "5813019.1"
+    "latitude": "-37.812473702473916",
+    "longitude": "144.9535625829268",
+    "easting": "319862.1",
+    "northing": "5813018.33"
   },
   {
     "com_id": "1013512",
@@ -1488,14 +1488,14 @@
     "useful_life_expectency_value": "30",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.81253232100242",
-      "longitude": "144.95331094847026",
+      "latitude": "-37.81254491983855",
+      "longitude": "144.95334104317095",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.81253232100242",
-    "longitude": "144.95331094847026",
-    "easting": "319840.09",
-    "northing": "5813011.34"
+    "latitude": "-37.81254491983855",
+    "longitude": "144.95334104317095",
+    "easting": "319842.77",
+    "northing": "5813010"
   },
   {
     "com_id": "1013513",
@@ -1511,14 +1511,14 @@
     "useful_life_expectency_value": "20",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.812557008724994",
-      "longitude": "144.95319144949622",
+      "latitude": "-37.81257456546341",
+      "longitude": "144.953206072342",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.812557008724994",
-    "longitude": "144.95319144949622",
-    "easting": "319829.63",
-    "northing": "5813008.37"
+    "latitude": "-37.81257456546341",
+    "longitude": "144.953206072342",
+    "easting": "319830.96",
+    "northing": "5813006.45"
   },
   {
     "com_id": "1013514",
@@ -1530,14 +1530,14 @@
     "date_planted": "1997-03-07T00:00:00.000",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.81260247745197",
-      "longitude": "144.95303877556503",
+      "latitude": "-37.81261212453669",
+      "longitude": "144.95309087503588",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.81260247745197",
-    "longitude": "144.95303877556503",
-    "easting": "319816.3",
-    "northing": "5813003.03"
+    "latitude": "-37.81261212453669",
+    "longitude": "144.95309087503588",
+    "easting": "319820.91",
+    "northing": "5813002.06"
   },
   {
     "com_id": "1013515",
@@ -1553,14 +1553,14 @@
     "useful_life_expectency_value": "20",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.812641987460594",
-      "longitude": "144.95290103301318",
+      "latitude": "-37.812639382540425",
+      "longitude": "144.95295335732035",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.812641987460594",
-    "longitude": "144.95290103301318",
-    "easting": "319804.27",
-    "northing": "5812998.38"
+    "latitude": "-37.812639382540425",
+    "longitude": "144.95295335732035",
+    "easting": "319808.87",
+    "northing": "5812998.77"
   },
   {
     "com_id": "1013516",
@@ -1576,14 +1576,14 @@
     "useful_life_expectency_value": "30",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.81267037590963",
-      "longitude": "144.9527974479913",
+      "latitude": "-37.812684436838126",
+      "longitude": "144.95280796442134",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.81267037590963",
-    "longitude": "144.9527974479913",
-    "easting": "319795.22",
-    "northing": "5812995.03"
+    "latitude": "-37.812684436838126",
+    "longitude": "144.95280796442134",
+    "easting": "319796.18",
+    "northing": "5812993.49"
   },
   {
     "com_id": "1013517",
@@ -1714,14 +1714,14 @@
     "useful_life_expectency_value": "20",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.81292934224071",
-      "longitude": "144.95188359894186",
+      "latitude": "-37.81292316290054",
+      "longitude": "144.9519272756396",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.81292934224071",
-    "longitude": "144.95188359894186",
-    "easting": "319715.4",
-    "northing": "5812964.53"
+    "latitude": "-37.81292316290054",
+    "longitude": "144.9519272756396",
+    "easting": "319719.23",
+    "northing": "5812965.3"
   },
   {
     "com_id": "1013523",
@@ -1737,13 +1737,13 @@
     "useful_life_expectency_value": "30",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.81296321724155",
-      "longitude": "144.95175873328895",
+      "latitude": "-37.8129638986089",
+      "longitude": "144.95179790388704",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.81296321724155",
-    "longitude": "144.95175873328895",
-    "easting": "319704.49",
+    "latitude": "-37.8129638986089",
+    "longitude": "144.95179790388704",
+    "easting": "319707.94",
     "northing": "5812960.53"
   },
   {
@@ -1756,14 +1756,14 @@
     "date_planted": "1997-03-07T00:00:00.000",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.81299581958583",
-      "longitude": "144.95164878332957",
+      "latitude": "-37.813001496181364",
+      "longitude": "144.95167463913765",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.81299581958583",
-    "longitude": "144.95164878332957",
-    "easting": "319694.89",
-    "northing": "5812956.7"
+    "latitude": "-37.813001496181364",
+    "longitude": "144.95167463913765",
+    "easting": "319697.18",
+    "northing": "5812956.12"
   },
   {
     "com_id": "1013525",
