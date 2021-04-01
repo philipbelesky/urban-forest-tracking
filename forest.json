@@ -663,29 +663,6 @@
     "northing": "5813224.53"
   },
   {
-    "com_id": "1013432",
-    "common_name": "Huntingdon Elm",
-    "scientific_name": "Ulmus x hollandica",
-    "genus": "Ulmus",
-    "family": "Ulmaceae",
-    "diametre_at_breast_height": "48",
-    "year_planted": "1997",
-    "date_planted": "1997-06-19T00:00:00.000",
-    "age_description": "Mature",
-    "useful_life_expectency": "1-5 years (>50% canopy)",
-    "useful_life_expectency_value": "5",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.810534496022974",
-      "longitude": "144.9525690660509",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.810534496022974",
-    "longitude": "144.9525690660509",
-    "easting": "319769.92",
-    "northing": "5813231.6"
-  },
-  {
     "com_id": "1013433",
     "common_name": "Dutch Elm",
     "scientific_name": "Ulmus x hollandica",
@@ -22582,5 +22559,28 @@
     "longitude": "144.9470672442669",
     "easting": "319242.75",
     "northing": "5815169.3"
+  },
+  {
+    "com_id": "1015739",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "86",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "21-30 years",
+    "useful_life_expectency_value": "30",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79312073436382",
+      "longitude": "144.94724336463347",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79312073436382",
+    "longitude": "144.94724336463347",
+    "easting": "319258.61",
+    "northing": "5815153.65"
   }
 ]
