@@ -322,29 +322,6 @@
     "northing": "5813076.18"
   },
   {
-    "com_id": "1013400",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "32",
-    "year_planted": "1900",
-    "date_planted": "2000-01-02T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "31-60 years",
-    "useful_life_expectency_value": "60",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.81181263510482",
-      "longitude": "144.9508078584243",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.81181263510482",
-    "longitude": "144.9508078584243",
-    "easting": "319617.98",
-    "northing": "5813086.37"
-  },
-  {
     "com_id": "1013401",
     "common_name": "Spotted Gum",
     "scientific_name": "Corymbia maculata",
@@ -366,25 +343,6 @@
     "longitude": "144.95076074530752",
     "easting": "319613.57",
     "northing": "5813098.24"
-  },
-  {
-    "com_id": "1013402",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "year_planted": "1900",
-    "date_planted": "2000-01-01T00:00:00.000",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.81160972214833",
-      "longitude": "144.95071646263742",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.81160972214833",
-    "longitude": "144.95071646263742",
-    "easting": "319609.44",
-    "northing": "5813108.71"
   },
   {
     "com_id": "1013403",
@@ -1789,29 +1747,6 @@
     "northing": "5813010.71"
   },
   {
-    "com_id": "1013527",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "26",
-    "year_planted": "1900",
-    "date_planted": "2000-01-01T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "11-20 years",
-    "useful_life_expectency_value": "20",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.81250183676264",
-      "longitude": "144.9511279870499",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.81250183676264",
-    "longitude": "144.9511279870499",
-    "easting": "319647.84",
-    "northing": "5813010.51"
-  },
-  {
     "com_id": "1013531",
     "common_name": "London Plane",
     "scientific_name": "Platanus x acerifolia",
@@ -2327,29 +2262,6 @@
     "longitude": "144.94927270816575",
     "easting": "319479.11",
     "northing": "5813252.98"
-  },
-  {
-    "com_id": "1013563",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "23",
-    "year_planted": "1900",
-    "date_planted": "2000-01-02T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "31-60 years",
-    "useful_life_expectency_value": "60",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.810722162484545",
-      "longitude": "144.95030266351026",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.810722162484545",
-    "longitude": "144.95030266351026",
-    "easting": "319570.85",
-    "northing": "5813206.4"
   },
   {
     "com_id": "1013570",
@@ -3721,75 +3633,6 @@
     "longitude": "144.9454924936524",
     "easting": "319144.85",
     "northing": "5813312.08"
-  },
-  {
-    "com_id": "1013747",
-    "common_name": "Snow-in-Summer",
-    "scientific_name": "Melaleuca linariifolia",
-    "genus": "Melaleuca",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "37",
-    "year_planted": "1997",
-    "date_planted": "1997-03-07T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "21-30 years",
-    "useful_life_expectency_value": "30",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.80880328115929",
-      "longitude": "144.94625754189985",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.80880328115929",
-    "longitude": "144.94625754189985",
-    "easting": "319210.05",
-    "northing": "5813411.51"
-  },
-  {
-    "com_id": "1013748",
-    "common_name": "Snow-in-Summer",
-    "scientific_name": "Melaleuca linariifolia",
-    "genus": "Melaleuca",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "36",
-    "year_planted": "1997",
-    "date_planted": "1997-03-07T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "21-30 years",
-    "useful_life_expectency_value": "30",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.80875185525304",
-      "longitude": "144.94635233449927",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.80875185525304",
-    "longitude": "144.94635233449927",
-    "easting": "319218.27",
-    "northing": "5813417.4"
-  },
-  {
-    "com_id": "1013749",
-    "common_name": "Snow-in-Summer",
-    "scientific_name": "Melaleuca linariifolia",
-    "genus": "Melaleuca",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "36",
-    "year_planted": "1997",
-    "date_planted": "1997-03-07T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "21-30 years",
-    "useful_life_expectency_value": "30",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.80863240474411",
-      "longitude": "144.9464841096346",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.80863240474411",
-    "longitude": "144.9464841096346",
-    "easting": "319229.58",
-    "northing": "5813430.91"
   },
   {
     "com_id": "1013750",
@@ -6745,25 +6588,6 @@
     "northing": "5813771.23"
   },
   {
-    "com_id": "1014208",
-    "common_name": "London Plane",
-    "scientific_name": "Platanus x acerifolia",
-    "genus": "Platanus",
-    "family": "Platanaceae",
-    "year_planted": "1900",
-    "date_planted": "2000-01-01T00:00:00.000",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.8055843730632",
-      "longitude": "144.94381477475235",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.8055843730632",
-    "longitude": "144.94381477475235",
-    "easting": "318987.13",
-    "northing": "5813763.97"
-  },
-  {
     "com_id": "1014209",
     "common_name": "London Plane",
     "scientific_name": "Platanus x acerifolia",
@@ -6923,25 +6747,6 @@
     "longitude": "144.9425948792068",
     "easting": "318879.77",
     "northing": "5813759.65"
-  },
-  {
-    "com_id": "1014218",
-    "common_name": "London Plane",
-    "scientific_name": "Platanus x acerifolia",
-    "genus": "Platanus",
-    "family": "Platanaceae",
-    "year_planted": "1900",
-    "date_planted": "2000-01-01T00:00:00.000",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.80575879761917",
-      "longitude": "144.94422007883622",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.80575879761917",
-    "longitude": "144.94422007883622",
-    "easting": "319023.24",
-    "northing": "5813745.4"
   },
   {
     "com_id": "1014219",
@@ -7193,29 +6998,6 @@
     "northing": "5813672.85"
   },
   {
-    "com_id": "1014241",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "46",
-    "year_planted": "1997",
-    "date_planted": "1997-03-07T00:00:00.000",
-    "age_description": "Mature",
-    "useful_life_expectency": "31-60 years",
-    "useful_life_expectency_value": "60",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.806476262857586",
-      "longitude": "144.9455700994938",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.806476262857586",
-    "longitude": "144.9455700994938",
-    "easting": "319143.85",
-    "northing": "5813668.4"
-  },
-  {
     "com_id": "1014242",
     "common_name": "Spotted Gum",
     "scientific_name": "Corymbia maculata",
@@ -7285,52 +7067,6 @@
     "northing": "5813655"
   },
   {
-    "com_id": "1014245",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "48",
-    "year_planted": "1900",
-    "date_planted": "2000-01-01T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "31-60 years",
-    "useful_life_expectency_value": "60",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.80669117473859",
-      "longitude": "144.94605981857734",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.80669117473859",
-    "longitude": "144.94605981857734",
-    "easting": "319187.49",
-    "northing": "5813645.5"
-  },
-  {
-    "com_id": "1014246",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "32",
-    "year_planted": "1900",
-    "date_planted": "2000-01-02T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "31-60 years",
-    "useful_life_expectency_value": "60",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.806734903608216",
-      "longitude": "144.946159241347",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.806734903608216",
-    "longitude": "144.946159241347",
-    "easting": "319196.35",
-    "northing": "5813640.84"
-  },
-  {
     "com_id": "1014247",
     "common_name": "Spotted Gum",
     "scientific_name": "Corymbia maculata",
@@ -7344,14 +7080,14 @@
     "useful_life_expectency_value": "80",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.80677808007328",
-      "longitude": "144.94625799804166",
+      "latitude": "-37.80678463077",
+      "longitude": "144.94627190083554",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.80677808007328",
-    "longitude": "144.94625799804166",
-    "easting": "319205.15",
-    "northing": "5813636.24"
+    "latitude": "-37.80678463077",
+    "longitude": "144.94627190083554",
+    "easting": "319206.39",
+    "northing": "5813635.54"
   },
   {
     "com_id": "1014248",
@@ -7417,75 +7153,6 @@
     "longitude": "144.9476680617126",
     "easting": "319331.18",
     "northing": "5813553.11"
-  },
-  {
-    "com_id": "1014255",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "26",
-    "year_planted": "1900",
-    "date_planted": "2000-01-01T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "31-60 years",
-    "useful_life_expectency_value": "60",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.807620613662216",
-      "longitude": "144.94775327584557",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.807620613662216",
-    "longitude": "144.94775327584557",
-    "easting": "319338.85",
-    "northing": "5813545.64"
-  },
-  {
-    "com_id": "1014257",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "29",
-    "year_planted": "1900",
-    "date_planted": "2000-01-02T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "21-30 years",
-    "useful_life_expectency_value": "30",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.807919297228906",
-      "longitude": "144.94810688718098",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.807919297228906",
-    "longitude": "144.94810688718098",
-    "easting": "319370.71",
-    "northing": "5813513.18"
-  },
-  {
-    "com_id": "1014261",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "31",
-    "year_planted": "1900",
-    "date_planted": "2000-01-02T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "21-30 years",
-    "useful_life_expectency_value": "30",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.80828533477267",
-      "longitude": "144.94849884631842",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.80828533477267",
-    "longitude": "144.94849884631842",
-    "easting": "319406.11",
-    "northing": "5813473.32"
   },
   {
     "com_id": "1014262",
@@ -7574,52 +7241,6 @@
     "longitude": "144.94915926527167",
     "easting": "319465.97",
     "northing": "5813396.38"
-  },
-  {
-    "com_id": "1014269",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "23",
-    "year_planted": "1900",
-    "date_planted": "2000-01-02T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "11-20 years",
-    "useful_life_expectency_value": "20",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.80906467158741",
-      "longitude": "144.94922319853842",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.80906467158741",
-    "longitude": "144.94922319853842",
-    "easting": "319471.78",
-    "northing": "5813388.24"
-  },
-  {
-    "com_id": "1014270",
-    "common_name": "Spotted Gum",
-    "scientific_name": "Corymbia maculata",
-    "genus": "Corymbia",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "21",
-    "year_planted": "1900",
-    "date_planted": "2000-01-02T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "6-10 years (<50% canopy)",
-    "useful_life_expectency_value": "10",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.80913963956588",
-      "longitude": "144.94928473280845",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.80913963956588",
-    "longitude": "144.94928473280845",
-    "easting": "319477.38",
-    "northing": "5813380.04"
   },
   {
     "com_id": "1014272",
@@ -9378,14 +8999,14 @@
     "useful_life_expectency_value": "30",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.80498682700265",
-      "longitude": "144.95065025190095",
+      "latitude": "-37.80500678395966",
+      "longitude": "144.95064742858338",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.80498682700265",
-    "longitude": "144.95065025190095",
-    "easting": "319587.49",
-    "northing": "5813843.5"
+    "latitude": "-37.80500678395966",
+    "longitude": "144.95064742858338",
+    "easting": "319587.29",
+    "northing": "5813841.28"
   },
   {
     "com_id": "1014450",
@@ -17533,14 +17154,14 @@
     "useful_life_expectency_value": "30",
     "located_in": "Street",
     "location": {
-      "latitude": "-37.79763191396257",
-      "longitude": "144.94972023654523",
+      "latitude": "-37.79763736554146",
+      "longitude": "144.94973314624306",
       "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
     },
-    "latitude": "-37.79763191396257",
-    "longitude": "144.94972023654523",
-    "easting": "319487.7",
-    "northing": "5814657.85"
+    "latitude": "-37.79763736554146",
+    "longitude": "144.94973314624306",
+    "easting": "319488.85",
+    "northing": "5814657.27"
   },
   {
     "com_id": "1015330",
@@ -22582,5 +22203,392 @@
     "longitude": "144.94724336463347",
     "easting": "319258.61",
     "northing": "5815153.65"
+  },
+  {
+    "com_id": "1015740",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "82",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "21-30 years",
+    "useful_life_expectency_value": "30",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79327016024028",
+      "longitude": "144.94744046096756",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79327016024028",
+    "longitude": "144.94744046096756",
+    "easting": "319276.33",
+    "northing": "5815137.45"
+  },
+  {
+    "com_id": "1015741",
+    "common_name": "Lemon Scented Gum",
+    "scientific_name": "Corymbia citriodora",
+    "genus": "Corymbia",
+    "family": "Myrtaceae",
+    "diametre_at_breast_height": "80",
+    "year_planted": "1900",
+    "date_planted": "2000-01-02T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "21-30 years",
+    "useful_life_expectency_value": "30",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.7937789737082",
+      "longitude": "144.9471204396995",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.7937789737082",
+    "longitude": "144.9471204396995",
+    "easting": "319249.39",
+    "northing": "5815080.37"
+  },
+  {
+    "com_id": "1015742",
+    "common_name": "Huntingdon Elm",
+    "scientific_name": "Ulmus x hollandica",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "65",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "1-5 years (<50% canopy)",
+    "useful_life_expectency_value": "5",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79397131625859",
+      "longitude": "144.9475255332545",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79397131625859",
+    "longitude": "144.9475255332545",
+    "easting": "319285.53",
+    "northing": "5815059.81"
+  },
+  {
+    "com_id": "1015743",
+    "common_name": "English Elm",
+    "scientific_name": "Ulmus procera",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "111",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "11-20 years",
+    "useful_life_expectency_value": "20",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.794109026577296",
+      "longitude": "144.94769161302105",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.794109026577296",
+    "longitude": "144.94769161302105",
+    "easting": "319300.49",
+    "northing": "5815044.85"
+  },
+  {
+    "com_id": "1015744",
+    "common_name": "Wych Elm",
+    "scientific_name": "Ulmus glabra",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "85",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "1-5 years (>50% canopy)",
+    "useful_life_expectency_value": "5",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.7942369058103",
+      "longitude": "144.94785206012799",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.7942369058103",
+    "longitude": "144.94785206012799",
+    "easting": "319314.93",
+    "northing": "5815030.97"
+  },
+  {
+    "com_id": "1015745",
+    "common_name": "Wych Elm",
+    "scientific_name": "Ulmus glabra",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "100",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "1-5 years (>50% canopy)",
+    "useful_life_expectency_value": "5",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79436013262379",
+      "longitude": "144.94801445353843",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79436013262379",
+    "longitude": "144.94801445353843",
+    "easting": "319329.53",
+    "northing": "5815017.61"
+  },
+  {
+    "com_id": "1015746",
+    "common_name": "Wych Elm",
+    "scientific_name": "Ulmus glabra",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79448158759023",
+      "longitude": "144.94816826563275",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79448158759023",
+    "longitude": "144.94816826563275",
+    "easting": "319343.37",
+    "northing": "5815004.43"
+  },
+  {
+    "com_id": "1015747",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "79",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "11-20 years",
+    "useful_life_expectency_value": "20",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79358128915881",
+      "longitude": "144.9478152377263",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79358128915881",
+    "longitude": "144.9478152377263",
+    "easting": "319310.09",
+    "northing": "5815103.65"
+  },
+  {
+    "com_id": "1015748",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "79",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "6-10 years (>50% canopy)",
+    "useful_life_expectency_value": "10",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79373908007433",
+      "longitude": "144.9480166474782",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79373908007433",
+    "longitude": "144.9480166474782",
+    "easting": "319328.21",
+    "northing": "5815086.53"
+  },
+  {
+    "com_id": "1015751",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "79",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "1-5 years (<50% canopy)",
+    "useful_life_expectency_value": "5",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79418724679707",
+      "longitude": "144.94858115039247",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79418724679707",
+    "longitude": "144.94858115039247",
+    "easting": "319379.01",
+    "northing": "5815037.89"
+  },
+  {
+    "com_id": "1015752",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "81",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "<1 year",
+    "useful_life_expectency_value": "1",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79434378951914",
+      "longitude": "144.94877305854183",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79434378951914",
+    "longitude": "144.94877305854183",
+    "easting": "319396.29",
+    "northing": "5815020.89"
+  },
+  {
+    "com_id": "1015763",
+    "common_name": "Brush Box",
+    "scientific_name": "Lophostemon confertus",
+    "genus": "Lophostemon",
+    "family": "Myrtaceae",
+    "diametre_at_breast_height": "51",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "11-20 years",
+    "useful_life_expectency_value": "20",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79493993040588",
+      "longitude": "144.94893418462343",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79493993040588",
+    "longitude": "144.94893418462343",
+    "easting": "319411.93",
+    "northing": "5814955.05"
+  },
+  {
+    "com_id": "1015764",
+    "common_name": "Brush Box",
+    "scientific_name": "Lophostemon confertus",
+    "genus": "Lophostemon",
+    "family": "Myrtaceae",
+    "diametre_at_breast_height": "31",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Semi-Mature",
+    "useful_life_expectency": "11-20 years",
+    "useful_life_expectency_value": "20",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79510502828034",
+      "longitude": "144.94914130366163",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79510502828034",
+    "longitude": "144.94914130366163",
+    "easting": "319430.57",
+    "northing": "5814937.13"
+  },
+  {
+    "com_id": "1015765",
+    "common_name": "Brush Box",
+    "scientific_name": "Lophostemon confertus",
+    "genus": "Lophostemon",
+    "family": "Myrtaceae",
+    "diametre_at_breast_height": "35",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Semi-Mature",
+    "useful_life_expectency": "11-20 years",
+    "useful_life_expectency_value": "20",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79537583960598",
+      "longitude": "144.94947814486008",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79537583960598",
+    "longitude": "144.94947814486008",
+    "easting": "319460.89",
+    "northing": "5814907.73"
+  },
+  {
+    "com_id": "1015773",
+    "common_name": "Brush Box",
+    "scientific_name": "Lophostemon confertus",
+    "genus": "Lophostemon",
+    "family": "Myrtaceae",
+    "diametre_at_breast_height": "41",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "21-30 years",
+    "useful_life_expectency_value": "30",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79623756260762",
+      "longitude": "144.95056636333456",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79623756260762",
+    "longitude": "144.95056636333456",
+    "easting": "319558.81",
+    "northing": "5814814.21"
+  },
+  {
+    "com_id": "1015775",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "74",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "1-5 years (<50% canopy)",
+    "useful_life_expectency_value": "5",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79463802003368",
+      "longitude": "144.94915058481203",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79463802003368",
+    "longitude": "144.94915058481203",
+    "easting": "319430.25",
+    "northing": "5814988.97"
+  },
+  {
+    "com_id": "1015778",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "71",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "1-5 years (<50% canopy)",
+    "useful_life_expectency_value": "5",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79494492305399",
+      "longitude": "144.94953139772892",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79494492305399",
+    "longitude": "144.94953139772892",
+    "easting": "319464.53",
+    "northing": "5814955.65"
   }
 ]
