@@ -4742,29 +4742,6 @@
     "northing": "5813547.97"
   },
   {
-    "com_id": "1013841",
-    "common_name": "Purple-leafed Cherry Plum",
-    "scientific_name": "Prunus cerasifera",
-    "genus": "Prunus",
-    "family": "Rosaceae",
-    "diametre_at_breast_height": "24",
-    "year_planted": "1900",
-    "date_planted": "2000-01-01T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "11-20 years",
-    "useful_life_expectency_value": "20",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.807748528726094",
-      "longitude": "144.94607050160417",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.807748528726094",
-    "longitude": "144.94607050160417",
-    "easting": "319191.01",
-    "northing": "5813528.19"
-  },
-  {
     "com_id": "1013843",
     "common_name": "Purple-leafed Cherry Plum",
     "scientific_name": "Prunus cerasifera",
@@ -12313,52 +12290,6 @@
     "longitude": "144.94292454057592",
     "easting": "318895.87",
     "northing": "5814347.33"
-  },
-  {
-    "com_id": "1014867",
-    "common_name": "Smooth-barked apple",
-    "scientific_name": "Angophora costata",
-    "genus": "Angophora",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "39",
-    "year_planted": "1997",
-    "date_planted": "1997-03-07T00:00:00.000",
-    "age_description": "Mature",
-    "useful_life_expectency": "21-30 years",
-    "useful_life_expectency_value": "30",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.79998027489439",
-      "longitude": "144.94192873395562",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.79998027489439",
-    "longitude": "144.94192873395562",
-    "easting": "318807.38",
-    "northing": "5814382.18"
-  },
-  {
-    "com_id": "1014870",
-    "common_name": "Smooth-barked apple",
-    "scientific_name": "Angophora costata",
-    "genus": "Angophora",
-    "family": "Myrtaceae",
-    "diametre_at_breast_height": "26",
-    "year_planted": "1997",
-    "date_planted": "1997-03-07T00:00:00.000",
-    "age_description": "Semi-Mature",
-    "useful_life_expectency": "21-30 years",
-    "useful_life_expectency_value": "30",
-    "located_in": "Street",
-    "location": {
-      "latitude": "-37.800067256829436",
-      "longitude": "144.94268793735986",
-      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
-    },
-    "latitude": "-37.800067256829436",
-    "longitude": "144.94268793735986",
-    "easting": "318874.44",
-    "northing": "5814374"
   },
   {
     "com_id": "1014874",
@@ -22590,5 +22521,70 @@
     "longitude": "144.94953139772892",
     "easting": "319464.53",
     "northing": "5814955.65"
+  },
+  {
+    "com_id": "1015779",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.795098205839345",
+      "longitude": "144.94972249141264",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.795098205839345",
+    "longitude": "144.94972249141264",
+    "easting": "319481.73",
+    "northing": "5814939.01"
+  },
+  {
+    "com_id": "1015780",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "69",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "6-10 years (>50% canopy)",
+    "useful_life_expectency_value": "10",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.79524897415718",
+      "longitude": "144.94991410965278",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.79524897415718",
+    "longitude": "144.94991410965278",
+    "easting": "319498.97",
+    "northing": "5814922.65"
+  },
+  {
+    "com_id": "1015781",
+    "common_name": "Elm",
+    "scientific_name": "Ulmus unknown",
+    "genus": "Ulmus",
+    "family": "Ulmaceae",
+    "diametre_at_breast_height": "70",
+    "year_planted": "1997",
+    "date_planted": "1997-02-10T00:00:00.000",
+    "age_description": "Mature",
+    "useful_life_expectency": "1-5 years (<50% canopy)",
+    "useful_life_expectency_value": "5",
+    "located_in": "Street",
+    "location": {
+      "latitude": "-37.795403281928444",
+      "longitude": "144.95010199672538",
+      "human_address": "{\"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\"}"
+    },
+    "latitude": "-37.795403281928444",
+    "longitude": "144.95010199672538",
+    "easting": "319515.89",
+    "northing": "5814905.89"
   }
 ]
